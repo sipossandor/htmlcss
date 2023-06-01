@@ -22,18 +22,18 @@ CSS file importálása
 		<head>  
 			<link rel=”stylesheet” href=”style.css”>  
 			<title>Files</title>  
-		</head>  
-		<body>  
-			<a href=”index.html”>Back</a>  
-	</html>  
-Vízszintesen görgethető  div.ex1{  
-					   overflow: scroll;  
+		</head>  \
+		<body>  \
+			<a href=”index.html”>Back</a>  \
+	</html>  \
+Vízszintesen görgethető  div.ex1{  \
+					   overflow: scroll;  \
   }  
-	vagy <div class=”table-data” style=”overflow:scroll;”>  
-Tábla középre igazítva  CSS fileba   td {    
-						text-align: center;    
-}    
-     			vagy <td style=”text-align: center;”>    
-Reszponziv osztály  <div class=”table-data table-responziv”>    
+	vagy <div class=”table-data” style=”overflow:scroll;”>  \
+Tábla középre igazítva  CSS fileba   td {    \
+						text-align: center;\    
+}   \ 
+     			vagy <td style=”text-align: center;”>  \  
+Reszponziv osztály  <div class=”table-data table-responziv”>    \
   
 
