@@ -30,10 +30,10 @@ Vízszintesen görgethető  div.ex1{
 					   overflow: scroll;  
   }  
 	vagy <div class=”table-data” style=”overflow:scroll;”>  
-Tábla középre igazítva  CSS fileba   td {  
-						text-align: center;  
-}  
-     			vagy <td style=”text-align: center;”>  
-Reszponziv osztály  <div class=”table-data table-responziv”>  
+Tábla középre igazítva  CSS fileba   td {    
+						text-align: center;    
+}    
+     			vagy <td style=”text-align: center;”>    
+Reszponziv osztály  <div class=”table-data table-responziv”>    
   
 
